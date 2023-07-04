@@ -1,3 +1,5 @@
+CI trigger
+
 # Danger :no_entry_sign:
 
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/orta/danger/blob/master/LICENSE)
